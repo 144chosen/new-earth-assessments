@@ -1,0 +1,1228 @@
+{
+  "version": "1.0.0",
+  "title": "The 144,000: Discover Your Role",
+  "domains": [
+    {
+      "id": "vision",
+      "name": "Vision, design, and creation",
+      "roles": [
+        "vision_1",
+        "vision_2",
+        "vision_3",
+        "vision_4",
+        "vision_5",
+        "vision_6"
+      ],
+      "questions": [
+        {
+          "id": "vision_d1",
+          "text": "I turn a broad vision into a clear plan, structure, or useful tool.",
+          "domain": "vision",
+          "section": "Vision, design, and creation"
+        },
+        {
+          "id": "vision_d2",
+          "text": "I enjoy imagining and designing better ways for people to live or learn.",
+          "domain": "vision",
+          "section": "Vision, design, and creation"
+        }
+      ]
+    },
+    {
+      "id": "steadiness",
+      "name": "Presence, attention, and continuity",
+      "roles": [
+        "steadiness_1",
+        "steadiness_2",
+        "steadiness_3",
+        "steadiness_4",
+        "steadiness_5",
+        "steadiness_6"
+      ],
+      "questions": [
+        {
+          "id": "steadiness_d1",
+          "text": "Others experience me as steady, discerning, and dependable under pressure.",
+          "domain": "steadiness",
+          "section": "Presence, attention, and continuity"
+        },
+        {
+          "id": "steadiness_d2",
+          "text": "I help a project continue through consistent choices rather than dramatic bursts.",
+          "domain": "steadiness",
+          "section": "Presence, attention, and continuity"
+        }
+      ]
+    },
+    {
+      "id": "healing",
+      "name": "Healing, integration, and embodiment",
+      "roles": [
+        "healing_1",
+        "healing_2",
+        "healing_3",
+        "healing_4",
+        "healing_5",
+        "healing_6"
+      ],
+      "questions": [
+        {
+          "id": "healing_d1",
+          "text": "I am drawn to supporting reflection, restoration, and embodied well-being.",
+          "domain": "healing",
+          "section": "Healing, integration, and embodiment"
+        },
+        {
+          "id": "healing_d2",
+          "text": "I enjoy helping people turn a meaningful experience into a sustainable daily practice.",
+          "domain": "healing",
+          "section": "Healing, integration, and embodiment"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "Ceremony, gathering, and belonging",
+      "roles": [
+        "community_1",
+        "community_2",
+        "community_3",
+        "community_4",
+        "community_5",
+        "community_6"
+      ],
+      "questions": [
+        {
+          "id": "community_d1",
+          "text": "I enjoy creating gatherings, rituals, and relationships where people belong.",
+          "domain": "community",
+          "section": "Ceremony, gathering, and belonging"
+        },
+        {
+          "id": "community_d2",
+          "text": "I can welcome people, handle differences, and attend to the details of a shared experience.",
+          "domain": "community",
+          "section": "Ceremony, gathering, and belonging"
+        }
+      ]
+    },
+    {
+      "id": "teaching",
+      "name": "Teaching, wisdom, and remembrance",
+      "roles": [
+        "teaching_1",
+        "teaching_2",
+        "teaching_3",
+        "teaching_4",
+        "teaching_5",
+        "teaching_6"
+      ],
+      "questions": [
+        {
+          "id": "teaching_d1",
+          "text": "I make unfamiliar ideas understandable through examples, questions, or writing.",
+          "domain": "teaching",
+          "section": "Teaching, wisdom, and remembrance"
+        },
+        {
+          "id": "teaching_d2",
+          "text": "I enjoy helping someone develop their own understanding over time.",
+          "domain": "teaching",
+          "section": "Teaching, wisdom, and remembrance"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "name": "Art, expression, and culture",
+      "roles": [
+        "art_1",
+        "art_2",
+        "art_3",
+        "art_4",
+        "art_5",
+        "art_6"
+      ],
+      "questions": [
+        {
+          "id": "art_d1",
+          "text": "Art, sound, stories, or play are natural ways for me to contribute.",
+          "domain": "art",
+          "section": "Art, expression, and culture"
+        },
+        {
+          "id": "art_d2",
+          "text": "I want to give an inner experience a form others can see, hear, or feel.",
+          "domain": "art",
+          "section": "Art, expression, and culture"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "name": "Earth, place, and living systems",
+      "roles": [
+        "earth_1",
+        "earth_2",
+        "earth_3",
+        "earth_4",
+        "earth_5",
+        "earth_6"
+      ],
+      "questions": [
+        {
+          "id": "earth_d1",
+          "text": "I want my work to care for land, water, food systems, or animals.",
+          "domain": "earth",
+          "section": "Earth, place, and living systems"
+        },
+        {
+          "id": "earth_d2",
+          "text": "Hands-on relationship with living systems brings me a sense of purpose.",
+          "domain": "earth",
+          "section": "Earth, place, and living systems"
+        }
+      ]
+    },
+    {
+      "id": "caregiving",
+      "name": "Care, protection, and generations",
+      "roles": [
+        "caregiving_1",
+        "caregiving_2",
+        "caregiving_3",
+        "caregiving_4",
+        "caregiving_5",
+        "caregiving_6"
+      ],
+      "questions": [
+        {
+          "id": "caregiving_d1",
+          "text": "I notice unmet care needs and can offer dependable support.",
+          "domain": "caregiving",
+          "section": "Care, protection, and generations"
+        },
+        {
+          "id": "caregiving_d2",
+          "text": "I want to help children, young people, elders, or people navigating loss participate fully.",
+          "domain": "caregiving",
+          "section": "Care, protection, and generations"
+        }
+      ]
+    },
+    {
+      "id": "building",
+      "name": "Building, resources, and shared responsibility",
+      "roles": [
+        "building_1",
+        "building_2",
+        "building_3",
+        "building_4",
+        "building_5",
+        "building_6"
+      ],
+      "questions": [
+        {
+          "id": "building_d1",
+          "text": "I enjoy building, organizing resources, or creating a responsible livelihood.",
+          "domain": "building",
+          "section": "Building, resources, and shared responsibility"
+        },
+        {
+          "id": "building_d2",
+          "text": "I can make practical systems work while keeping shared responsibility visible.",
+          "domain": "building",
+          "section": "Building, resources, and shared responsibility"
+        }
+      ]
+    },
+    {
+      "id": "calling",
+      "name": "Purpose, contribution, and continuity",
+      "roles": [
+        "calling_1",
+        "calling_2",
+        "calling_3",
+        "calling_4",
+        "calling_5",
+        "calling_6"
+      ],
+      "questions": [
+        {
+          "id": "calling_d1",
+          "text": "I help people recognize their strengths and connect those strengths with opportunities.",
+          "domain": "calling",
+          "section": "Purpose, contribution, and continuity"
+        },
+        {
+          "id": "calling_d2",
+          "text": "I want my contribution to support honest leadership and work that can continue beyond me.",
+          "domain": "calling",
+          "section": "Purpose, contribution, and continuity"
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "id": "vision_1",
+      "name": "New Earth Architect",
+      "domain": "vision",
+      "description": "Translates a vision of a more loving world into structures people can inhabit. This may include designing communities, schools, retreat centers, cooperative housing, or organizations built around shared values.",
+      "prompt": "I like designing usable community structures.",
+      "careers": [
+        "Community project manager",
+        "Retreat center planner",
+        "Vision-to-project consultant"
+      ],
+      "spiritualPath": "Retreat center planner",
+      "firstStep": "Interview a working community project manager and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in retreat center planner for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "vision_2",
+      "name": "Visionary",
+      "domain": "vision",
+      "description": "Imagines possibilities beyond familiar ways of living. Helps others see what could exist and gives an emerging project a clear direction, while remaining open to feedback.",
+      "prompt": "I help people see future possibilities.",
+      "careers": [
+        "Innovation strategist",
+        "Workshop facilitator",
+        "Purpose-led planning consultant"
+      ],
+      "spiritualPath": "Workshop facilitator",
+      "firstStep": "Interview a working innovation strategist and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in workshop facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "vision_3",
+      "name": "Template Holder",
+      "domain": "vision",
+      "description": "Keeps the community’s founding values visible as its work develops. Helps a group remember what it intends to embody and notice when its decisions drift away from that intention.",
+      "prompt": "I keep founding values present in decisions.",
+      "careers": [
+        "Values facilitator",
+        "Nonprofit governance coordinator",
+        "Community agreements consultant"
+      ],
+      "spiritualPath": "Nonprofit governance coordinator",
+      "firstStep": "Interview a working values facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in nonprofit governance coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "vision_4",
+      "name": "Reality Weaver",
+      "domain": "vision",
+      "description": "Connects ideas, people, resources, and opportunities into a coherent project. Recognizes how separate contributions can work together and helps move a shared vision into action.",
+      "prompt": "I connect people and resources into a coherent project.",
+      "careers": [
+        "Program coordinator",
+        "Partnerships consultant",
+        "Retreat production coordinator"
+      ],
+      "spiritualPath": "Partnerships consultant",
+      "firstStep": "Interview a working program coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in partnerships consultant for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "vision_5",
+      "name": "Sacred Space Designer",
+      "domain": "vision",
+      "description": "Creates environments that support reflection, belonging, creativity, and rest. Works through architecture, interiors, gardens, lighting, acoustics, or the thoughtful arrangement of a gathering space.",
+      "prompt": "I shape spaces through beauty, layout, gardens, or atmosphere.",
+      "careers": [
+        "Interior designer",
+        "Meditation-space designer",
+        "Garden / sanctuary designer"
+      ],
+      "spiritualPath": "Meditation-space designer",
+      "firstStep": "Interview a working interior designer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in meditation-space designer for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "vision_6",
+      "name": "Innovator",
+      "domain": "vision",
+      "description": "Develops useful tools and approaches that address real needs. May contribute through technology, education, accessible design, environmental solutions, or simpler ways of organizing everyday life.",
+      "prompt": "I develop new tools that solve practical needs.",
+      "careers": [
+        "UX or accessibility designer",
+        "Educational tool creator",
+        "Social enterprise product developer"
+      ],
+      "spiritualPath": "Educational tool creator",
+      "firstStep": "Interview a working ux or accessibility designer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in educational tool creator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_1",
+      "name": "Timeline Stabilizer",
+      "domain": "steadiness",
+      "description": "Represents steady commitment to a chosen future. Helps people sustain that commitment through consistent decisions, reliable relationships, and follow-through when circumstances become uncertain.",
+      "prompt": "I sustain chosen commitments when circumstances change.",
+      "careers": [
+        "Project operations coordinator",
+        "Accountability coach",
+        "Retreat operations manager"
+      ],
+      "spiritualPath": "Accountability coach",
+      "firstStep": "Interview a working project operations coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in accountability coach for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_2",
+      "name": "Timeline Navigator",
+      "domain": "steadiness",
+      "description": "Helps people consider possible paths and their consequences. Supports thoughtful choices by exploring what each direction asks of them, what it could make possible, and what resources it requires.",
+      "prompt": "I help people compare paths and consequences.",
+      "careers": [
+        "Career exploration coach",
+        "Decision workshop facilitator",
+        "Strategic planning analyst"
+      ],
+      "spiritualPath": "Decision workshop facilitator",
+      "firstStep": "Interview a working career exploration coach and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in decision workshop facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_3",
+      "name": "Frequency Holder",
+      "domain": "steadiness",
+      "description": "Cultivates a quality of presence associated with compassion, clarity, and steadiness. Expresses this through attentive listening, measured responses, and the atmosphere they help create.",
+      "prompt": "I bring a compassionate, measured presence.",
+      "careers": [
+        "Meditation facilitator",
+        "Circle host",
+        "Community well-being coordinator"
+      ],
+      "spiritualPath": "Circle host",
+      "firstStep": "Interview a working meditation facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in circle host for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_4",
+      "name": "Coherence Keeper",
+      "domain": "steadiness",
+      "description": "Notices whether a group’s words, values, and actions agree. Helps resolve conflicting priorities so the community can make decisions that reflect its stated purpose.",
+      "prompt": "I help a group align words, values, and actions.",
+      "careers": [
+        "Quality assurance coordinator",
+        "Values workshop facilitator",
+        "Organizational development consultant"
+      ],
+      "spiritualPath": "Values workshop facilitator",
+      "firstStep": "Interview a working quality assurance coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in values workshop facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_5",
+      "name": "Grounding Anchor",
+      "domain": "steadiness",
+      "description": "Helps bring expansive ideas into everyday life. Reminds people to attend to their bodies, surroundings, responsibilities, and immediate needs while pursuing meaningful spiritual work.",
+      "prompt": "I bring expansive ideas back to everyday needs.",
+      "careers": [
+        "Mindful movement facilitator",
+        "Daily-practice coach",
+        "Program support specialist"
+      ],
+      "spiritualPath": "Daily-practice coach",
+      "firstStep": "Interview a working mindful movement facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in daily-practice coach for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "steadiness_6",
+      "name": "Discernment Keeper",
+      "domain": "steadiness",
+      "description": "Encourages thoughtful questioning and honest observation. Helps people distinguish intuition, interpretation, desire, and available evidence so decisions become clearer and more accountable.",
+      "prompt": "I question claims thoughtfully and acknowledge uncertainty.",
+      "careers": [
+        "Research analyst",
+        "Ethical communications editor",
+        "Spiritual-literacy educator"
+      ],
+      "spiritualPath": "Ethical communications editor",
+      "firstStep": "Interview a working research analyst and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in ethical communications editor for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_1",
+      "name": "Healing Arts Practitioner",
+      "domain": "healing",
+      "description": "Offers care through their particular skills and training. Their contribution may involve counseling, bodywork, restorative movement, music, or other practices that support well-being.",
+      "prompt": "I want to offer well-being practices through training and care.",
+      "careers": [
+        "Licensed massage therapist",
+        "Yoga teacher",
+        "Trained spiritual care practitioner"
+      ],
+      "spiritualPath": "Yoga teacher",
+      "firstStep": "Interview a working licensed massage therapist and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in yoga teacher for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_2",
+      "name": "Integration Guide",
+      "domain": "healing",
+      "description": "Helps people translate meaningful experiences into daily changes. Supports reflection, workable intentions, and follow-through after retreats, teachings, ceremonies, or major personal realizations.",
+      "prompt": "I help people apply experiences after retreats or major changes.",
+      "careers": [
+        "Retreat integration coach",
+        "Reflective journaling facilitator",
+        "Well-being program coordinator"
+      ],
+      "spiritualPath": "Reflective journaling facilitator",
+      "firstStep": "Interview a working retreat integration coach and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in reflective journaling facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_3",
+      "name": "Shadow Integrator",
+      "domain": "healing",
+      "description": "Encourages honest exploration of feelings and patterns people find difficult to acknowledge. Helps make room for shame, anger, fear, or contradiction without turning those experiences into someone’s entire identity.",
+      "prompt": "I can support honest reflection on difficult patterns without shaming.",
+      "careers": [
+        "Self-inquiry workshop facilitator",
+        "Reflective writing coach",
+        "Licensed counselor after required training"
+      ],
+      "spiritualPath": "Reflective writing coach",
+      "firstStep": "Interview a working self-inquiry workshop facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in reflective writing coach for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_4",
+      "name": "Emotional Alchemist",
+      "domain": "healing",
+      "description": "Helps give difficult feelings a constructive expression. May support someone in turning anger into a clear boundary, grief into remembrance, or uncertainty into a thoughtful next step.",
+      "prompt": "I help feelings find constructive expression.",
+      "careers": [
+        "Expressive arts facilitator",
+        "Support-group facilitator",
+        "Licensed therapist after required training"
+      ],
+      "spiritualPath": "Support-group facilitator",
+      "firstStep": "Interview a working expressive arts facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in support-group facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_5",
+      "name": "Embodiment Guide",
+      "domain": "healing",
+      "description": "Connects inner understanding with observable behavior. Helps people practice their values through communication, movement, routines, relationships, and the choices they make under pressure.",
+      "prompt": "I connect insight with movement, routines, and observable behavior.",
+      "careers": [
+        "Yoga / movement teacher",
+        "Embodiment workshop facilitator",
+        "Habit and values coach"
+      ],
+      "spiritualPath": "Embodiment workshop facilitator",
+      "firstStep": "Interview a working yoga / movement teacher and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in embodiment workshop facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "healing_6",
+      "name": "Rest Guardian",
+      "domain": "healing",
+      "description": "Protects space for restoration within a community’s rhythm. Helps organizers and participants recognize their limits, share responsibilities, and sustain their contribution over time.",
+      "prompt": "I protect rest and sustainable participation.",
+      "careers": [
+        "Rest retreat host",
+        "Restorative practice teacher",
+        "Well-being schedule consultant"
+      ],
+      "spiritualPath": "Restorative practice teacher",
+      "firstStep": "Interview a working rest retreat host and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in restorative practice teacher for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_1",
+      "name": "Ceremonialist",
+      "domain": "community",
+      "description": "Designs and holds meaningful rituals for individuals and communities. Creates occasions for gratitude, release, commitment, remembrance, celebration, and the recognition of life transitions.",
+      "prompt": "I design meaningful rituals and ceremonies.",
+      "careers": [
+        "Ceremony designer",
+        "Wedding / life-transition celebrant",
+        "Retreat ritual facilitator"
+      ],
+      "spiritualPath": "Wedding / life-transition celebrant",
+      "firstStep": "Interview a working ceremony designer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in wedding / life-transition celebrant for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_2",
+      "name": "Portal or Threshold Keeper",
+      "domain": "community",
+      "description": "Works with the symbolic thresholds between life chapters. Supports people through beginnings, endings, changes of identity, and rites of passage with appropriate ritual and practical care.",
+      "prompt": "I support people crossing into a new life chapter.",
+      "careers": [
+        "Life-transition coach",
+        "Rites-of-passage facilitator",
+        "Memorial ceremony planner"
+      ],
+      "spiritualPath": "Rites-of-passage facilitator",
+      "firstStep": "Interview a working life-transition coach and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in rites-of-passage facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_3",
+      "name": "Community Weaver",
+      "domain": "community",
+      "description": "Builds relationships that make belonging possible. Introduces people, welcomes newcomers, encourages mutual support, and helps connections continue beyond a single event.",
+      "prompt": "I make relationships and belonging continue over time.",
+      "careers": [
+        "Community manager",
+        "Membership program coordinator",
+        "Community-building consultant"
+      ],
+      "spiritualPath": "Membership program coordinator",
+      "firstStep": "Interview a working community manager and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in membership program coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_4",
+      "name": "Gathering Host",
+      "domain": "community",
+      "description": "Creates the conditions for people to meet meaningfully. Attends to invitations, hospitality, accessibility, food, schedules, and the many details that allow participants to feel welcome.",
+      "prompt": "I enjoy invitations, hospitality, schedules, and event details.",
+      "careers": [
+        "Retreat producer",
+        "Event planner",
+        "Hospitality coordinator"
+      ],
+      "spiritualPath": "Event planner",
+      "firstStep": "Interview a working retreat producer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in event planner for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_5",
+      "name": "Bridge Builder",
+      "domain": "community",
+      "description": "Connects people across differences in background, generation, belief, or experience. Finds shared concerns and helps groups work together while respecting their differences.",
+      "prompt": "I help people collaborate across differences.",
+      "careers": [
+        "Intercultural program coordinator",
+        "Partnerships manager",
+        "Dialogue facilitator"
+      ],
+      "spiritualPath": "Partnerships manager",
+      "firstStep": "Interview a working intercultural program coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in partnerships manager for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "community_6",
+      "name": "Peacemaker",
+      "domain": "community",
+      "description": "Supports constructive responses to conflict. Helps people listen, express their needs, establish boundaries, and pursue repair with room for responsibility and disagreement.",
+      "prompt": "I support listening, boundaries, and conflict repair.",
+      "careers": [
+        "Conflict-resolution facilitator",
+        "Mediator after appropriate training",
+        "Restorative dialogue coordinator"
+      ],
+      "spiritualPath": "Mediator after appropriate training",
+      "firstStep": "Interview a working conflict-resolution facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in mediator after appropriate training for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_1",
+      "name": "Wisdom Teacher",
+      "domain": "teaching",
+      "description": "Makes meaningful teachings understandable and usable. Connects spiritual ideas with examples, reflection, and practices that students can explore in their own lives.",
+      "prompt": "I make spiritual teachings understandable and practical.",
+      "careers": [
+        "Spiritual studies educator",
+        "Course creator",
+        "Workshop teacher"
+      ],
+      "spiritualPath": "Course creator",
+      "firstStep": "Interview a working spiritual studies educator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in course creator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_2",
+      "name": "Way Shower",
+      "domain": "teaching",
+      "description": "Demonstrates a possible path through lived example. Their contribution comes through the consistency between what they teach, how they act, and how they respond when they make mistakes.",
+      "prompt": "I teach through a consistent lived example.",
+      "careers": [
+        "Practice facilitator",
+        "Mentoring program lead",
+        "Public speaker"
+      ],
+      "spiritualPath": "Mentoring program lead",
+      "firstStep": "Interview a working practice facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in mentoring program lead for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_3",
+      "name": "Mentor",
+      "domain": "teaching",
+      "description": "Offers sustained guidance as another person develops. Shares experience, asks useful questions, and supports growing independence rather than making every decision for the learner.",
+      "prompt": "I offer patient guidance while supporting independence.",
+      "careers": [
+        "Mentor within existing expertise",
+        "Learning coach",
+        "Apprenticeship coordinator"
+      ],
+      "spiritualPath": "Learning coach",
+      "firstStep": "Interview a working mentor within existing expertise and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in learning coach for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_4",
+      "name": "Scribe",
+      "domain": "teaching",
+      "description": "Gives spoken insights a clear written form. Creates books, lesson notes, workbooks, transcripts, and other materials that help teachings reach people beyond the original conversation.",
+      "prompt": "I give insights a clear written form.",
+      "careers": [
+        "Workbook writer",
+        "Spiritual book editor",
+        "Course scriptwriter"
+      ],
+      "spiritualPath": "Spiritual book editor",
+      "firstStep": "Interview a working workbook writer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in spiritual book editor for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_5",
+      "name": "Archivist or Memory Keeper",
+      "domain": "teaching",
+      "description": "Preserves the community’s teachings, creative work, and history. Organizes recordings, documents, photographs, and stories so future participants can find and understand them.",
+      "prompt": "I organize and preserve records, teachings, and community history.",
+      "careers": [
+        "Digital archivist",
+        "Oral history producer",
+        "Learning-resource librarian"
+      ],
+      "spiritualPath": "Oral history producer",
+      "firstStep": "Interview a working digital archivist and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in oral history producer for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "teaching_6",
+      "name": "Translator of Wisdom",
+      "domain": "teaching",
+      "description": "Makes teachings accessible across languages and levels of familiarity. Explains unfamiliar concepts, provides context, and helps preserve meaning as ideas move between audiences.",
+      "prompt": "I explain unfamiliar language across levels of experience.",
+      "careers": [
+        "Spiritual-literacy educator",
+        "Interpreter if qualified",
+        "Accessible learning-content writer"
+      ],
+      "spiritualPath": "Interpreter if qualified",
+      "firstStep": "Interview a working spiritual-literacy educator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in interpreter if qualified for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_1",
+      "name": "Light Bearer or Artist",
+      "domain": "art",
+      "description": "Gives inner experience a visible expression. Uses painting, photography, design, sculpture, or other media to invite reflection and help people encounter beauty.",
+      "prompt": "I express meaning through visual art or design.",
+      "careers": [
+        "Graphic designer",
+        "Visionary artist",
+        "Photographer"
+      ],
+      "spiritualPath": "Visionary artist",
+      "firstStep": "Interview a working graphic designer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in visionary artist for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_2",
+      "name": "Sound Weaver",
+      "domain": "art",
+      "description": "Creates music and sound experiences that support gathering, contemplation, or celebration. May serve as a musician, composer, singer, drummer, or facilitator of participatory music.",
+      "prompt": "I create music, singing, drumming, or contemplative sound.",
+      "careers": [
+        "Musician / composer",
+        "Contemplative sound facilitator",
+        "Participatory singing leader"
+      ],
+      "spiritualPath": "Contemplative sound facilitator",
+      "firstStep": "Interview a working musician / composer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in contemplative sound facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_3",
+      "name": "Storyteller",
+      "domain": "art",
+      "description": "Gives human meaning to a vision through narrative. Shares experiences that help people recognize their own questions, imagine possibilities, and understand the community’s purpose.",
+      "prompt": "I tell stories that help others find meaning.",
+      "careers": [
+        "Writer / podcaster",
+        "Documentary storyteller",
+        "Brand storytelling consultant"
+      ],
+      "spiritualPath": "Documentary storyteller",
+      "firstStep": "Interview a working writer / podcaster and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in documentary storyteller for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_4",
+      "name": "Symbol Maker",
+      "domain": "art",
+      "description": "Creates visual forms that express shared meaning. Develops emblems, imagery, objects, and designs that help people recognize and connect with a teaching or community.",
+      "prompt": "I develop symbols, objects, or imagery that communicate a shared idea.",
+      "careers": [
+        "Illustrator",
+        "Symbol / brand designer",
+        "Jewelry or ritual-object artisan"
+      ],
+      "spiritualPath": "Symbol / brand designer",
+      "firstStep": "Interview a working illustrator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in symbol / brand designer for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_5",
+      "name": "Culture Creator",
+      "domain": "art",
+      "description": "Establishes practices through which values become part of daily life. Shapes festivals, media, shared traditions, and ways of celebrating that participants can help sustain.",
+      "prompt": "I shape traditions, festivals, and shared cultural practices.",
+      "careers": [
+        "Festival producer",
+        "Creative program director",
+        "Cultural community organizer"
+      ],
+      "spiritualPath": "Creative program director",
+      "firstStep": "Interview a working festival producer and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in creative program director for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "art_6",
+      "name": "Joy Keeper",
+      "domain": "art",
+      "description": "Makes room for play, laughter, dance, and celebration. Helps a community experience connection through enjoyment and remembers the importance of delight within meaningful work.",
+      "prompt": "I help people connect through play, laughter, or dance.",
+      "careers": [
+        "Dance / play facilitator",
+        "Creative events host",
+        "Recreation program leader"
+      ],
+      "spiritualPath": "Creative events host",
+      "firstStep": "Interview a working dance / play facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in creative events host for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_1",
+      "name": "Earth Steward",
+      "domain": "earth",
+      "description": "Expresses devotion through care for the land. Contributes through habitat restoration, responsible land management, planting, cleanup, or other work that supports living ecosystems.",
+      "prompt": "I care for land through planting, restoration, or responsible stewardship.",
+      "careers": [
+        "Habitat restoration worker",
+        "Conservation educator",
+        "Land stewardship coordinator"
+      ],
+      "spiritualPath": "Conservation educator",
+      "firstStep": "Interview a working habitat restoration worker and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in conservation educator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_2",
+      "name": "Gridworker or Sacred Place Keeper",
+      "domain": "earth",
+      "description": "Relates to places through prayer, meditation, ceremony, or sacred geography. Gives that relationship a practical expression through careful visitation, stewardship, and sustained care for the place.",
+      "prompt": "I relate to places through reflection, ceremony, and careful practical care.",
+      "careers": [
+        "Sacred-site retreat guide",
+        "Land-care program facilitator",
+        "Mindful nature guide"
+      ],
+      "spiritualPath": "Land-care program facilitator",
+      "firstStep": "Interview a working sacred-site retreat guide and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in land-care program facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_3",
+      "name": "Water Keeper",
+      "domain": "earth",
+      "description": "Centers their service on water and its importance to life. May support watershed restoration, clean-water projects, conservation, or education about local water systems.",
+      "prompt": "I want to protect water and local watersheds.",
+      "careers": [
+        "Watershed project coordinator",
+        "Water conservation educator",
+        "Environmental technician"
+      ],
+      "spiritualPath": "Water conservation educator",
+      "firstStep": "Interview a working watershed project coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in water conservation educator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_4",
+      "name": "Seed Guardian",
+      "domain": "earth",
+      "description": "Preserves plant diversity and the knowledge needed to grow it. Saves seeds, maintains seed libraries, shares gardening skills, and supports continuity between growing seasons and generations.",
+      "prompt": "I preserve seeds and growing knowledge.",
+      "careers": [
+        "Seed-library coordinator",
+        "Gardening educator",
+        "Nursery or seed business owner"
+      ],
+      "spiritualPath": "Gardening educator",
+      "firstStep": "Interview a working seed-library coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in gardening educator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_5",
+      "name": "Food Grower or Nourishment Steward",
+      "domain": "earth",
+      "description": "Helps provide nourishing food and connection to its origins. Serves through gardens, farms, community kitchens, shared meals, or teaching people to grow and prepare food.",
+      "prompt": "I grow, prepare, or share nourishing food.",
+      "careers": [
+        "Market gardener",
+        "Community kitchen coordinator",
+        "Food growing teacher"
+      ],
+      "spiritualPath": "Community kitchen coordinator",
+      "firstStep": "Interview a working market gardener and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in community kitchen coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "earth_6",
+      "name": "Animal Guardian",
+      "domain": "earth",
+      "description": "Gives practical care to animals and their habitats. May contribute through rescue, responsible husbandry, wildlife protection, or education that encourages more considerate relationships with animals.",
+      "prompt": "I care for animals and their habitats.",
+      "careers": [
+        "Animal care worker",
+        "Rescue program coordinator",
+        "Wildlife education facilitator"
+      ],
+      "spiritualPath": "Rescue program coordinator",
+      "firstStep": "Interview a working animal care worker and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in rescue program coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_1",
+      "name": "Child Guardian",
+      "domain": "caregiving",
+      "description": "Supports environments where children can develop with care, curiosity, and dignity. Contributes through parenting, education, creative activities, and dependable relationships.",
+      "prompt": "I create caring learning environments for children.",
+      "careers": [
+        "Early childhood educator",
+        "Children’s mindfulness teacher",
+        "Family activity facilitator"
+      ],
+      "spiritualPath": "Children’s mindfulness teacher",
+      "firstStep": "Interview a working early childhood educator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in children’s mindfulness teacher for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_2",
+      "name": "Youth Mentor",
+      "domain": "caregiving",
+      "description": "Helps young people explore their strengths and possible directions. Offers encouragement, useful skills, opportunities to contribute, and support as they develop their own judgment.",
+      "prompt": "I help young people explore abilities and opportunities.",
+      "careers": [
+        "Youth program coordinator",
+        "Skills mentor",
+        "Outdoor learning facilitator"
+      ],
+      "spiritualPath": "Skills mentor",
+      "firstStep": "Interview a working youth program coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in skills mentor for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_3",
+      "name": "Elder Keeper",
+      "domain": "caregiving",
+      "description": "Helps elders remain connected, respected, and supported. Makes room for their stories and experience while attending to practical needs such as companionship, transport, and participation.",
+      "prompt": "I support elders through connection and practical care.",
+      "careers": [
+        "Companion-care provider",
+        "Elder program coordinator",
+        "Life-story interviewer"
+      ],
+      "spiritualPath": "Elder program coordinator",
+      "firstStep": "Interview a working companion-care provider and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in elder program coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_4",
+      "name": "Grief Companion",
+      "domain": "caregiving",
+      "description": "Offers steady presence during loss. Supports remembrance, practical assistance, and space for grief to unfold without imposing a timetable or interpretation on another person’s experience.",
+      "prompt": "I can accompany loss without imposing a timetable or explanation.",
+      "careers": [
+        "Trained grief companion",
+        "Memorial celebrant",
+        "Bereavement program coordinator"
+      ],
+      "spiritualPath": "Memorial celebrant",
+      "firstStep": "Interview a working trained grief companion and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in memorial celebrant for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_5",
+      "name": "Care CoordinatorOrganizes support around people’s actual needs.",
+      "domain": "caregiving",
+      "description": "Connects volunteers, meals, transport, companionship, and other resources so care becomes dependable and easier to access.",
+      "prompt": "I coordinate meals, transport, volunteers, or other support.",
+      "careers": [
+        "Volunteer care coordinator",
+        "Community service manager",
+        "Nonclinical care navigator"
+      ],
+      "spiritualPath": "Community service manager",
+      "firstStep": "Interview a working volunteer care coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in community service manager for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "caregiving_6",
+      "name": "Accessibility Advocate",
+      "domain": "caregiving",
+      "description": "Helps more people participate meaningfully. Identifies barriers involving mobility, sensory needs, language, finances, or communication and works with others to improve access.",
+      "prompt": "I identify and help remove barriers to participation.",
+      "careers": [
+        "Accessibility consultant",
+        "Inclusive event coordinator",
+        "Accessible content designer"
+      ],
+      "spiritualPath": "Inclusive event coordinator",
+      "firstStep": "Interview a working accessibility consultant and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in inclusive event coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_1",
+      "name": "Sacred Builder or Craftsperson",
+      "domain": "building",
+      "description": "Makes the physical structures and objects a community needs. Contributes through construction, repair, woodworking, textiles, engineering, and other skilled work that turns intention into something usable.",
+      "prompt": "I build or repair useful objects and physical structures.",
+      "careers": [
+        "Carpenter / craftsperson",
+        "Sacred-object maker",
+        "Retreat property maintenance provider"
+      ],
+      "spiritualPath": "Sacred-object maker",
+      "firstStep": "Interview a working carpenter / craftsperson and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in sacred-object maker for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_2",
+      "name": "Resource Steward",
+      "domain": "building",
+      "description": "Manages shared resources with care and transparency. Helps allocate money, materials, spaces, and time in ways that support the community’s commitments.",
+      "prompt": "I manage shared money, materials, spaces, or time transparently.",
+      "careers": [
+        "Nonprofit finance coordinator",
+        "Bookkeeper if qualified",
+        "Resource planning consultant"
+      ],
+      "spiritualPath": "Bookkeeper if qualified",
+      "firstStep": "Interview a working nonprofit finance coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in bookkeeper if qualified for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_3",
+      "name": "Purpose-Led Entrepreneur",
+      "domain": "building",
+      "description": "Develops a livelihood or enterprise around a useful contribution. Creates products and services while attending to the effects of their business on workers, customers, and the wider community.",
+      "prompt": "I want to develop a business around a useful contribution.",
+      "careers": [
+        "Purpose-led business owner",
+        "Spiritual service studio owner",
+        "Digital learning product creator"
+      ],
+      "spiritualPath": "Spiritual service studio owner",
+      "firstStep": "Interview a working purpose-led business owner and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in spiritual service studio owner for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_4",
+      "name": "Cooperative Organizer",
+      "domain": "building",
+      "description": "Helps people share work, resources, and decisions. Develops collaborative structures that allow members to contribute and understand how responsibilities are distributed.",
+      "prompt": "I help people share decisions, resources, and responsibility.",
+      "careers": [
+        "Cooperative development coordinator",
+        "Membership operations manager",
+        "Shared-space organizer"
+      ],
+      "spiritualPath": "Membership operations manager",
+      "firstStep": "Interview a working cooperative development coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in membership operations manager for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_5",
+      "name": "Civic Steward",
+      "domain": "building",
+      "description": "Brings the community’s values into public service. May contribute through neighborhood initiatives, community planning, public institutions, or projects that improve shared spaces and everyday life.",
+      "prompt": "I improve shared spaces and community public services.",
+      "careers": [
+        "Community development worker",
+        "Neighborhood program coordinator",
+        "Public service administrator"
+      ],
+      "spiritualPath": "Neighborhood program coordinator",
+      "firstStep": "Interview a working community development worker and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in neighborhood program coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "building_6",
+      "name": "Justice Advocate",
+      "domain": "building",
+      "description": "Works toward dignity, fair treatment, and accountability. Listens to people affected by harmful conditions and supports practical changes that address their needs.",
+      "prompt": "I work toward fair treatment, dignity, and accountability.",
+      "careers": [
+        "Advocacy program coordinator",
+        "Community outreach worker",
+        "Policy researcher"
+      ],
+      "spiritualPath": "Community outreach worker",
+      "firstStep": "Interview a working advocacy program coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in community outreach worker for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_1",
+      "name": "Soul Blueprint Guide",
+      "domain": "calling",
+      "description": "Uses spiritual reflection to help people explore their values, recurring interests, strengths, and sense of calling. Supports them in identifying directions they can investigate through lived experience.",
+      "prompt": "I help people explore values, strengths, and a sense of calling.",
+      "careers": [
+        "Purpose exploration coach",
+        "Spiritual reflection facilitator",
+        "Values workshop creator"
+      ],
+      "spiritualPath": "Spiritual reflection facilitator",
+      "firstStep": "Interview a working purpose exploration coach and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in spiritual reflection facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_2",
+      "name": "Gift Activator",
+      "domain": "calling",
+      "description": "Recognizes strengths that others may overlook in themselves. Creates opportunities for people to practice, develop confidence, and offer those abilities in a useful setting.",
+      "prompt": "I help someone notice and practice overlooked gifts.",
+      "careers": [
+        "Strengths workshop facilitator",
+        "Creative confidence coach",
+        "Talent development coordinator"
+      ],
+      "spiritualPath": "Creative confidence coach",
+      "firstStep": "Interview a working strengths workshop facilitator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in creative confidence coach for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_3",
+      "name": "Service Connector",
+      "domain": "calling",
+      "description": "Matches people’s gifts with needs they can help meet. Connects teachers with learners, builders with projects, caregivers with support networks, and volunteers with meaningful responsibilities.",
+      "prompt": "I connect abilities with people or projects that need them.",
+      "careers": [
+        "Volunteer coordinator",
+        "Mentor matching coordinator",
+        "Career services navigator"
+      ],
+      "spiritualPath": "Mentor matching coordinator",
+      "firstStep": "Interview a working volunteer coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in mentor matching coordinator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_4",
+      "name": "Messenger or Invitation Keeper",
+      "domain": "calling",
+      "description": "Communicates the community’s purpose clearly and warmly. Creates invitations and public messages that help people understand what is being offered and decide how they want to participate.",
+      "prompt": "I communicate warm, clear invitations.",
+      "careers": [
+        "Ethical copywriter",
+        "Community communications manager",
+        "Spiritual event marketer"
+      ],
+      "spiritualPath": "Community communications manager",
+      "firstStep": "Interview a working ethical copywriter and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in community communications manager for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_5",
+      "name": "Truth Keeper",
+      "domain": "calling",
+      "description": "Supports honesty within the community’s teaching and leadership. Encourages clear communication, acknowledges uncertainty, corrects mistakes, and helps commitments remain visible.",
+      "prompt": "I make commitments and uncertainties visible through honest communication.",
+      "careers": [
+        "Ethics program coordinator",
+        "Research editor",
+        "Accountability facilitator"
+      ],
+      "spiritualPath": "Research editor",
+      "firstStep": "Interview a working ethics program coordinator and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in research editor for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    },
+    {
+      "id": "calling_6",
+      "name": "Legacy Builder",
+      "domain": "calling",
+      "description": "Helps valuable work continue beyond its original founders. Develops future leaders, preserves knowledge, documents processes, and creates opportunities for the next generation to contribute.",
+      "prompt": "I develop future leaders and preserve useful work for the next generation.",
+      "careers": [
+        "Succession planning consultant",
+        "Leadership development facilitator",
+        "Knowledge systems coordinator"
+      ],
+      "spiritualPath": "Leadership development facilitator",
+      "firstStep": "Interview a working succession planning consultant and ask what a beginner can safely practice, what training matters, and how clients or employers find them.",
+      "offer": "A clearly scoped pilot in leadership development facilitator for one specific audience, with transparent limits, format, and feedback.",
+      "training": "Check local training, safeguarding, credential, and licensing requirements before offering regulated care, bodywork, therapy, work with children, or professional design services. Spiritual facilitation does not establish clinical qualifications."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+VERIFICATION · October 3, 2026
+31 automated tests passed, including invalid/incomplete answers; score bounds; all 60 roles reachable as primary; optional astrology influence capped; context-sensitive actions; unknown-time birth handling; daylight-saving gaps/folds; polar ascendant handling; independent Swiss Ephemeris checks of Sun/Moon and ascendant; payment order/status/amount/currency/location/refund checks, including Quick Pay OPEN order state and Tender.id payment linkage; forged and repeated webhooks; no cross-session paid access; encrypted/deleted records; five-page reports for long inputs across all ten domains.
+
+Independent birth comparison used three known UTC instants and locations, with differences below 0.01 degrees for Sun/Moon and 0.02 degrees for the ascendant. Swiss Ephemeris was used only as a local test reference and is not shipped or a runtime dependency.
+
+All 19 illustrated heritage profiles were reached as primary results in a sampled answer-space exercise. Source claims and interpretation weights are separate; scoring tests do not validate celestial ancestry or psychological accuracy.
+
+The complete hosted preview journey passed in Chromium: heritage intake → 30 free questions → illustrated results → clearly labeled no-charge preview unlock → 20 domain questions → 18 role questions → practical context → purpose results → five-page PDF download. Desktop and 390px mobile layouts had no horizontal overflow or JavaScript errors. The separate offline owner preview also passed both quizzes and fictional sample download.
+
+Public location service was tested with controlled responses: New York coordinates mapped to America/New_York, and a repeated query used the cache without another external request. No actual user birth records were sent to a public geocoder during construction.
+
+All five final sample PDF pages were rendered and visually reviewed. The report has five pages and approximately 1,830 words. Long optional reflection fields were exercised with all ten role domains to verify bounded page layout.
+
+Limits: Square tests used controlled API responses; no merchant credentials were supplied, so a real credentialed Sandbox purchase/refund remains a launch check. The deployed Kajabi theme, live HTTPS/DNS, Square account, real Nominatim contact User-Agent, server hosting, and privacy/support information still need owner setup. Native Kajabi Payments and PDF email delivery are not connected in this Square/PDF-download implementation.

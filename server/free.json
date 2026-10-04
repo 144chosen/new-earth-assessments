@@ -1,0 +1,1023 @@
+{
+  "version": "1.0.0",
+  "title": "Discover Your Celestial Heritage",
+  "themes": [
+    {
+      "id": "clarity",
+      "name": "Clarity & integrity"
+    },
+    {
+      "id": "expression",
+      "name": "Expression & inspiration"
+    },
+    {
+      "id": "care",
+      "name": "Compassion & care"
+    },
+    {
+      "id": "stillness",
+      "name": "Stillness & restoration"
+    },
+    {
+      "id": "nature",
+      "name": "Earth & living systems"
+    },
+    {
+      "id": "inquiry",
+      "name": "Inquiry & understanding"
+    },
+    {
+      "id": "cohesion",
+      "name": "Belonging & cooperation"
+    },
+    {
+      "id": "service",
+      "name": "Practical service"
+    },
+    {
+      "id": "imagination",
+      "name": "Vision & possibility"
+    },
+    {
+      "id": "leadership",
+      "name": "Courage & stewardship"
+    }
+  ],
+  "questions": [
+    {
+      "id": "clarity_1",
+      "text": "I speak honestly even when it requires a kind but difficult conversation.",
+      "theme": "clarity",
+      "section": "Clarity & integrity"
+    },
+    {
+      "id": "clarity_2",
+      "text": "People rely on me to keep our shared values visible.",
+      "theme": "clarity",
+      "section": "Clarity & integrity"
+    },
+    {
+      "id": "expression_1",
+      "text": "I come alive through music, images, storytelling, or creative expression.",
+      "theme": "expression",
+      "section": "Expression & inspiration"
+    },
+    {
+      "id": "expression_2",
+      "text": "I enjoy making a complex idea memorable and inspiring.",
+      "theme": "expression",
+      "section": "Expression & inspiration"
+    },
+    {
+      "id": "care_1",
+      "text": "I naturally notice who needs listening, reassurance, or practical support.",
+      "theme": "care",
+      "section": "Compassion & care"
+    },
+    {
+      "id": "care_2",
+      "text": "I can stay present with someone without trying to fix their feelings.",
+      "theme": "care",
+      "section": "Compassion & care"
+    },
+    {
+      "id": "stillness_1",
+      "text": "Quiet reflection helps me return to a sense of inner steadiness.",
+      "theme": "stillness",
+      "section": "Stillness & restoration"
+    },
+    {
+      "id": "stillness_2",
+      "text": "I protect time for rest rather than measuring my worth only by activity.",
+      "theme": "stillness",
+      "section": "Stillness & restoration"
+    },
+    {
+      "id": "nature_1",
+      "text": "Caring for land, water, plants, or animals feels like meaningful service.",
+      "theme": "nature",
+      "section": "Earth & living systems"
+    },
+    {
+      "id": "nature_2",
+      "text": "A relationship with nature helps me feel connected and grounded.",
+      "theme": "nature",
+      "section": "Earth & living systems"
+    },
+    {
+      "id": "inquiry_1",
+      "text": "I enjoy investigating unfamiliar ideas before deciding what I believe.",
+      "theme": "inquiry",
+      "section": "Inquiry & understanding"
+    },
+    {
+      "id": "inquiry_2",
+      "text": "I want to understand how different parts of a system work together.",
+      "theme": "inquiry",
+      "section": "Inquiry & understanding"
+    },
+    {
+      "id": "cohesion_1",
+      "text": "I help people with different perspectives find a workable shared direction.",
+      "theme": "cohesion",
+      "section": "Belonging & cooperation"
+    },
+    {
+      "id": "cohesion_2",
+      "text": "I notice relationships and connections that others might overlook.",
+      "theme": "cohesion",
+      "section": "Belonging & cooperation"
+    },
+    {
+      "id": "service_1",
+      "text": "A spiritual insight matters to me when I can apply it to everyday life.",
+      "theme": "service",
+      "section": "Practical service"
+    },
+    {
+      "id": "service_2",
+      "text": "I find satisfaction in dependable follow-through and useful small actions.",
+      "theme": "service",
+      "section": "Practical service"
+    },
+    {
+      "id": "imagination_1",
+      "text": "I readily imagine new ways of living, learning, or creating community.",
+      "theme": "imagination",
+      "section": "Vision & possibility"
+    },
+    {
+      "id": "imagination_2",
+      "text": "Symbols, dreams, and imaginative reflection help me explore meaning.",
+      "theme": "imagination",
+      "section": "Vision & possibility"
+    },
+    {
+      "id": "leadership_1",
+      "text": "I can take responsibility for a project while inviting other people to contribute.",
+      "theme": "leadership",
+      "section": "Courage & stewardship"
+    },
+    {
+      "id": "leadership_2",
+      "text": "I am willing to make my gifts visible in service of something I care about.",
+      "theme": "leadership",
+      "section": "Courage & stewardship"
+    },
+    {
+      "id": "resonance_1",
+      "text": "Ocean or water imagery brings me a feeling of connection.",
+      "themes": [
+        "nature",
+        "care"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_2",
+      "text": "Birds, flight, and a wider perspective are meaningful symbols to me.",
+      "themes": [
+        "expression",
+        "imagination"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_3",
+      "text": "Feline imagery reminds me of courage, dignity, and self-possession.",
+      "themes": [
+        "leadership",
+        "clarity"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_4",
+      "text": "Precise patterns, sacred geometry, or intricate systems hold my attention.",
+      "themes": [
+        "inquiry",
+        "clarity"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_5",
+      "text": "I feel drawn to making peace between very different ways of seeing the world.",
+      "themes": [
+        "cohesion",
+        "care"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_6",
+      "text": "I am curious about stories of human potential and conscious evolution.",
+      "themes": [
+        "imagination",
+        "service"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_7",
+      "text": "I would rather explore a teaching through quiet contemplation before sharing it.",
+      "themes": [
+        "stillness",
+        "inquiry"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_8",
+      "text": "I enjoy turning a beautiful vision into a repeatable practice.",
+      "themes": [
+        "service",
+        "leadership"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_9",
+      "text": "I feel drawn to sound, resonance, or music as a contemplative practice.",
+      "themes": [
+        "expression",
+        "stillness"
+      ],
+      "section": "Your symbolic resonance"
+    },
+    {
+      "id": "resonance_10",
+      "text": "My sense of service includes people beyond my immediate circle.",
+      "themes": [
+        "care",
+        "cohesion"
+      ],
+      "section": "Your symbolic resonance"
+    }
+  ],
+  "lineages": [
+    {
+      "id": "elohei",
+      "name": "Elohei-Elohim",
+      "family": "Emerald founder order",
+      "weights": {
+        "clarity": 3,
+        "leadership": 2,
+        "service": 2,
+        "cohesion": 1
+      },
+      "location": "Lyra; Aramatena in the MCEO cosmology",
+      "locationNote": "Founder consciousness collective; associated with dimensions 13-15, with the Anuhazi expression at Lyra-Aramatena.",
+      "background": "The Emerald founder family is described as a source of feline and land-mammal expressions and as a guardian collective.",
+      "practice": "Bring integrity into a promise, a project, or a difficult conversation.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/elohei.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "seraphei",
+      "name": "Seraphei-Seraphim",
+      "family": "Gold founder order",
+      "weights": {
+        "expression": 3,
+        "inquiry": 2,
+        "imagination": 2,
+        "leadership": 1
+      },
+      "location": "Lyra; Vega in the MCEO cosmology",
+      "locationNote": "Founder consciousness collective; the Cerez and Aethien expressions are linked with Lyra-Vega.",
+      "background": "The Gold founder family includes avian and mantis expressions in the primary teachings.",
+      "practice": "Give a meaningful idea a clear voice or a beautiful form.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/seraphei.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "bra-ha-rama",
+      "name": "Bra-ha-Rama",
+      "family": "Amethyst founder order",
+      "weights": {
+        "care": 3,
+        "nature": 2,
+        "stillness": 2,
+        "imagination": 1
+      },
+      "location": "Lyra; Aveyon in the MCEO cosmology",
+      "locationNote": "Founder consciousness collective; Inyu and Pegasai are connected with Lyra-Aveyon.",
+      "background": "The Amethyst founder family includes cetacean and winged horse-deer expressions.",
+      "practice": "Create a small practice that makes room for compassion and restoration.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/bra-ha-rama.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "anuhazi",
+      "name": "Anuhazi",
+      "family": "Emerald feline expression",
+      "weights": {
+        "clarity": 3,
+        "leadership": 3,
+        "stillness": 1,
+        "service": 1
+      },
+      "location": "Lyra; Aramatena",
+      "locationNote": "Lyra-Aramatena is named as the Anuhazi origin within this cosmology. It is not an astronomically verified inhabited planet.",
+      "background": "The texts describe feline hominids, sometimes called Lyran-Sirian Whites, within the Emerald family.",
+      "practice": "Name one boundary and one courageous contribution you can practice this week.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264",
+      "sourceStatus": "primary",
+      "image": "assets/anuhazi.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "anyu",
+      "name": "Anyu",
+      "family": "Aquatic feline-ape expression",
+      "weights": {
+        "nature": 3,
+        "inquiry": 2,
+        "clarity": 2,
+        "stillness": 1
+      },
+      "location": "Lyra; Aveyon in Dance for Life",
+      "locationNote": "The supplied summary describes an aquatic ape-like branch. Dance for Life more specifically names an aquatic feline-ape hybrid at Lyra-Aveyon.",
+      "background": "A distinct branch in the teachings; do not confuse Anyu with the Yonei aquatic-ape expression. Source moral labels are not applied to assessment participants.",
+      "practice": "Explore water or nature as a reflective setting while keeping practical boundaries.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; supplied Founder family races reference",
+      "sourceStatus": "primary",
+      "image": "assets/anyu.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "cerez",
+      "name": "Cerez / Carians",
+      "family": "Gold avian expression",
+      "weights": {
+        "expression": 3,
+        "leadership": 2,
+        "inquiry": 2,
+        "imagination": 1
+      },
+      "location": "Lyra; Vega",
+      "locationNote": "The founder narrative locates the Cerez avian expression at Lyra-Vega.",
+      "background": "Bird-like hominids in the Gold order. Cerez is distinct from the similarly spelled Ceres, Seres, and Serres in other accounts.",
+      "practice": "Share a short teaching through your voice, writing, or visual expression.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264",
+      "sourceStatus": "primary",
+      "image": "assets/cerez.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "aethien",
+      "name": "Aethien",
+      "family": "Gold mantis expression",
+      "weights": {
+        "inquiry": 3,
+        "stillness": 3,
+        "care": 1,
+        "clarity": 1
+      },
+      "location": "Lyra-Vega founder context; Pegasus guardian association",
+      "locationNote": "Dance for Life locates the founder expression at Lyra-Vega. Angelic Realities, p. xxix, identifies the illustrated Guardian Aethien as Gold Order, Mantis, Pegasus System. These are different source contexts; no exact personal planet is assigned.",
+      "background": "Mantis-like beings in the Gold order, included in the founders of the IAFW service organization.",
+      "practice": "Study a practice deeply, then translate one insight into a simple helpful step.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Angelic Realities, printed p. xxix",
+      "sourceStatus": "primary",
+      "image": "assets/aethien.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "inyu",
+      "name": "Inyu",
+      "family": "Amethyst cetacean expression",
+      "weights": {
+        "nature": 3,
+        "care": 3,
+        "expression": 1,
+        "stillness": 1
+      },
+      "location": "Lyra; Aveyon",
+      "locationNote": "Lyra-Aveyon is the named founder setting; additional Inyu affiliations appear in the Alcyone-Pleiades council narrative.",
+      "background": "Cetacean or whale-like expressions associated with the Amethyst founder family.",
+      "practice": "Pair a contemplative sound practice with a concrete act of water stewardship.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/inyu.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "pegasai",
+      "name": "Pegasai / Pegasi",
+      "family": "Amethyst winged horse-deer expression",
+      "weights": {
+        "imagination": 3,
+        "expression": 2,
+        "nature": 2,
+        "care": 1
+      },
+      "location": "Lyra; Aveyon",
+      "locationNote": "The founders text places Pegasai at Lyra-Aveyon. The Pegasus-like form does not establish a Pegasus-system birthplace.",
+      "background": "Winged horse-deer forms in the Amethyst founder family.",
+      "practice": "Turn an imaginative idea into one small creative experiment you can share.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264",
+      "sourceStatus": "primary",
+      "image": "assets/pegasai.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "azurites",
+      "name": "Azurites / Azurite Yani",
+      "family": "Sirian composite guardian expression",
+      "weights": {
+        "cohesion": 3,
+        "service": 2,
+        "inquiry": 2,
+        "leadership": 1
+      },
+      "location": "Sirius B; Azurline council association",
+      "locationNote": "The source describes a Sirius B lineage and a council named Azurline-Sirius B. It does not supply a verified planetary address for a participant.",
+      "background": "A composite feline, avian, land- and water-mammal expression associated with cooperation and guardianship in the narrative.",
+      "practice": "Bring different skills or people together around a useful shared project.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264",
+      "sourceStatus": "primary",
+      "image": "assets/azurites.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "oraphim",
+      "name": "Oraphim",
+      "family": "Angelic Human seed lineage",
+      "weights": {
+        "service": 3,
+        "imagination": 2,
+        "clarity": 2,
+        "care": 1
+      },
+      "location": "Lyra and Sirius B ancestry; Taran / Earth human-seeding narrative",
+      "locationNote": "This is a composite lineage narrative, not one exact star-system birthplace.",
+      "background": "The texts connect Anuhazi and Azurite ancestry with the Oraphim-Angelic Human lineage. The supplied compilation also names Serres ancestry.",
+      "practice": "Choose a spiritual value and give it a visible expression in your everyday work.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264; supplied reference",
+      "sourceStatus": "mixed",
+      "image": "assets/oraphim.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "feline-oraphim",
+      "name": "Feline Oraphim",
+      "family": "Specialized Oraphim expression",
+      "weights": {
+        "leadership": 3,
+        "clarity": 2,
+        "service": 2,
+        "stillness": 1
+      },
+      "location": "Composite Oraphim lineage: Lyra / Sirius B associations",
+      "locationNote": "An exact separate planet for this specialized form was not found in the checked primary passages.",
+      "background": "The supplied materials depict a feline expression within the wider Oraphim family.",
+      "practice": "Practice courageous visibility alongside a clear, respectful boundary.",
+      "source": "Supplied Founder family races reference; wider Oraphim context in Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "supplied",
+      "image": "assets/feline-oraphim.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "avian-oraphim",
+      "name": "Avian Oraphim",
+      "family": "Specialized Oraphim expression",
+      "weights": {
+        "expression": 3,
+        "imagination": 2,
+        "service": 2,
+        "leadership": 1
+      },
+      "location": "Composite Oraphim lineage; Alcyone-Pleiades council association",
+      "locationNote": "Dance for Life names avian Oraphim Serres in the Alcyone council. That association is not proof of personal origin.",
+      "background": "The supplied illustrations show a winged or bird-like Oraphim expression.",
+      "practice": "Teach one idea through a story, voice note, or brief video.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; supplied reference",
+      "sourceStatus": "mixed",
+      "image": "assets/avian-oraphim.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "cetacean-oraphim",
+      "name": "Cetacean Oraphim",
+      "family": "Specialized Oraphim expression",
+      "weights": {
+        "care": 3,
+        "nature": 2,
+        "stillness": 2,
+        "service": 1
+      },
+      "location": "Composite Oraphim lineage: Lyra / Sirius B associations",
+      "locationNote": "A distinct exact origin planet for this specialized expression was not independently established.",
+      "background": "The supplied materials depict a dolphin or whale-like Oraphim expression.",
+      "practice": "Offer listening and presence while also protecting your own time and energy.",
+      "source": "Supplied Founder family races reference; wider Oraphim context in Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "supplied",
+      "image": "assets/cetacean-oraphim.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "maharaji",
+      "name": "Maharaji / Maharajhi",
+      "family": "Sirian Blue Human lineage",
+      "weights": {
+        "cohesion": 3,
+        "clarity": 2,
+        "inquiry": 2,
+        "service": 1
+      },
+      "location": "Sirius B; Azurline council",
+      "locationNote": "The primary council passage uses the spelling Maharagi. Related spellings appear in the supplied references.",
+      "background": "A Blue Human lineage associated with Azurite-Oraphim ancestry and the Sirius B council.",
+      "practice": "Make an unfamiliar teaching understandable without overstating what you know.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139; Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264",
+      "sourceStatus": "primary",
+      "image": "assets/maharaji.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "turaneusiam",
+      "name": "Turaneusiam",
+      "family": "Taran Angelic Human lineage",
+      "weights": {
+        "service": 3,
+        "nature": 2,
+        "leadership": 2,
+        "imagination": 1
+      },
+      "location": "Tara in the MCEO cosmology; subsequent Earth expressions",
+      "locationNote": "Tara is a realm/planet name in the teachings; it is not a confirmed modern astronomical planet.",
+      "background": "An original Taran Angelic Human race narrative, with later branches and Earth-seeding accounts.",
+      "practice": "Build a regular rhythm for a gift you want to embody in ordinary life.",
+      "source": "Voyagers II: The Secrets of Amenti (expanded edition), printed pp. 262-264; Voyagers II Taran narrative",
+      "sourceStatus": "primary",
+      "image": "assets/turaneusiam.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "grandeyanas",
+      "name": "Grandeyanas",
+      "family": "Emerald / Blue Yanas collective",
+      "weights": {
+        "clarity": 3,
+        "stillness": 2,
+        "cohesion": 2,
+        "inquiry": 1
+      },
+      "location": "Energy Matrix beyond the Time Matrix, in this cosmology",
+      "locationNote": "The source describes a consciousness collective rather than a physical race with a planet of birth.",
+      "background": "The first Primal Sound Field collective, connected with the Emerald order.",
+      "practice": "Sit quietly with a core value, then make one decision that expresses it.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/grandeyanas.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "wachayanas",
+      "name": "Wachayanas",
+      "family": "Gold Yanas collective",
+      "weights": {
+        "expression": 3,
+        "inquiry": 2,
+        "stillness": 2,
+        "imagination": 1
+      },
+      "location": "Energy Matrix beyond the Time Matrix, in this cosmology",
+      "locationNote": "A consciousness collective rather than a physical star-system population.",
+      "background": "The second Primal Sound Field collective, connected with the Gold order.",
+      "practice": "Combine a contemplative practice with a clear expression of what you learned.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/wachayanas.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    },
+    {
+      "id": "ramyanas",
+      "name": "Ramyanas",
+      "family": "Amethyst / Violet Yanas collective",
+      "weights": {
+        "care": 3,
+        "stillness": 2,
+        "imagination": 2,
+        "nature": 1
+      },
+      "location": "Energy Matrix beyond the Time Matrix, in this cosmology",
+      "locationNote": "A consciousness collective rather than a race assigned to an exact physical planet.",
+      "background": "The third Primal Sound Field collective, connected with the Amethyst order.",
+      "practice": "Make one compassionate choice that respects both your needs and another person’s.",
+      "source": "Dance for Life (A & A Deane, 2002), printed pp. 136-139",
+      "sourceStatus": "primary",
+      "image": "assets/ramyanas.jpg",
+      "interpretation": "Personality themes and practices are New Earth University interpretations, not an MCEO diagnostic method."
+    }
+  ],
+  "catalogue": [
+    {
+      "name": "Emerald Order Breneau  —  Elohei-Elohim",
+      "description": "Anuhazi, also called Lyran-Sirian Whites, described as feline hominids; Anyu, described as an aquatic, ape-like branch. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Gold Order Breneau  —  Seraphei-Seraphim",
+      "description": "Avian, insect, and reptilian branches, including Cerez/Carians and Aethien mantises. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Amethyst Order Breneau  —  Bra-ha-Rama",
+      "description": "Inyu, described as cetacean beings, and Pegasai/Pegasi, described as winged horse-deer forms.",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Azurites / Azurite Yani / Sirian Blues",
+      "description": "Blue beings combining feline, avian, and cetacean founder characteristics; associated with Sirius B and universal guardianship. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Oraphim",
+      "description": "Anuhazi-Azurite-Serres hybrid seed lineage associated with the Angelic Human narrative. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Feline, Avian, and Cetacean Oraphim",
+      "description": "Specialized expressions of the Oraphim lineage, including feline hominids, bird-like forms, and aquatic whale/dolphin-like forms. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Maharaji / Maharajhi",
+      "description": "Sirius B “Blue Human” lineage combining Oraphim and Azurite ancestry. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Turaneusiam",
+      "description": "The original Taran Angelic Human race; the texts distinguish Taran and subsequent Earth expressions. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Lumians / Adami-Kudmon",
+      "description": "A Taran Turaneusiam branch associated with Lumia and Mu. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Alanians / Beli-Kudyem",
+      "description": "Another Taran Turaneusiam branch; these names also appear in later hybrid classifications. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Ceres / Seres",
+      "description": "In the early Taran narrative, an Elohim-Lumian hybrid lineage; descendants are called Seres. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Serres / Serres-Ceres",
+      "description": "Pleiadian and Orion-associated avian beings, some depicted with wings. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Aethien",
+      "description": "Mantis-like beings associated with the Gold Order and Pegasus system. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Leonines",
+      "description": "Feline or “cat-people” forms associated with the Emerald Order. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Hathor",
+      "description": "A Leonine-Anunnaki hybrid branch included among Guardian-associated groups. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Pouix",
+      "description": "Small blue Pleiadian hominids, called “Pleiadian Blues.” AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Zionites",
+      "description": "Human-Aethien-Zephelium hybrids described as “fish-men.” AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Human-Zionite hybrids",
+      "description": "A further hybrid expression associated with Inner Earth and Priests of Ur. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Queventelliur",
+      "description": "Large, long-haired, ape-like hominids associated with Guardian and Inner Earth accounts. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Rhanthunkeana / Ranthia / Rhantia",
+      "description": "Translucent, shape-changing beings; Angelic Realities describes a Lyran “Crystal People”–Procyon “Bird People” hybrid. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Arcturian amphibian hominids",
+      "description": "An amphibian race represented among the Guardian illustrations. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Shambali",
+      "description": "Inner Earth mixed-cloister lineage incorporating Maharaji ancestry. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Bhrama",
+      "description": "Inner Earth mixed-cloister lineage combining Melchizedek, Ur-Antrian, and Maharaji ancestry. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Breanoua-Melchizedek",
+      "description": "A named Inner Earth human/cloister grouping. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Rama / Ramas",
+      "description": "Mixed-cloister human groups; different branches receive different affiliations in the texts. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied reference; correspondence cross-checked in Angelic Realities, printed pp. xxix-xxx.",
+      "scored": false
+    },
+    {
+      "name": "Eieyani / Priests of Ur",
+      "description": "A term used for higher collectives and their incarnate Oraphim-Turaneusiam human lineage. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Ur-Tarranates",
+      "description": "A Maharaji-related branch associated with the first Earth human seeding. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Dagos-Cloister and Urtite-Cloister",
+      "description": "Host lineages associated with subsequent Earth seedings. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Maji Grail Lines / Indigo lineages",
+      "description": "Human-related lineage classifications associated with Oraphim, Maharaji, and cloister ancestry.",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Ma-jha-Ka-DRa-gha-YUN / Blue Dragons / Blue Genies",
+      "description": "Aquari-Azurite-Sirian blue aquatic-avian hominids, associated with Sirius C and the Aurora material. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "E-Sha-NeU-A",
+      "description": "Winged lion and winged feline-hominid Aurora forms. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Ra-Ta-jheN",
+      "description": "White aquatic-mammalian hominids, also described as “white water genies.” Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "AdonA",
+      "description": "Indigo beings associated with the parallel Ecka-Veca system. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "AdonE",
+      "description": "Indigo beings associated with the local Ecka-Veca system. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "AdonI",
+      "description": "A parallel-Ecka hosting race described as maintaining Krystic principles despite its “fallen” classification.",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Annu-Elohim",
+      "description": "Higher-dimensional ancestral collective associated with Anunnaki lineages. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Annu-Jehova / Jehovian lineages",
+      "description": "A named branch in the Annu-Elohim–Anunnaki lineage charts. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Sirian Anunnaki",
+      "description": "A principal Anunnaki visitor grouping. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Pleiadian-Nibiruian Anunnaki hybrids / “Blondes”",
+      "description": "Human-looking Pleiadian-human-Nibiruian-Anunnaki hybrids. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Bipedal Dolphin People",
+      "description": "Annu-Elohim/Anunnaki-associated forms; some accounts connect them with Arcturian or Andromie groups. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Nephilim",
+      "description": "Anunnaki-human hybrid lineages, with differing branches and affiliations. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Nephedem",
+      "description": "Dracos-human hybrid lineages in the Black Sun classifications. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Nephite",
+      "description": "A named hybrid lineage in the Belil Sun charts. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Annu-Melchizedek",
+      "description": "Anunnaki-human mixed lineage associated with Inner Earth accounts. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Drakon / Drakonians",
+      "description": "Upright dragon/lizard-like beings associated with Orion. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Dracos",
+      "description": "Drakon-human hybrids, distinguished from the parent Drakon race. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Annu-Drakon",
+      "description": "Anunnaki-Drakonian hybrid lines. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Zephelium / Zephelium Blues",
+      "description": "A Drakonian-associated strain described as administering Zeta groups. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Zeta Reticuli / Zetas / Grays",
+      "description": "Several gray visitor strains; the Guardian illustrations also include a regenerated Zeta branch. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Zeta Gray Rigelian",
+      "description": "A specifically named gray visitor strain. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Rutilia",
+      "description": "Zeta-Dracos hybrids, labeled “E.B.E.” in some charts. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Kurendara",
+      "description": "Orange-skinned Dracos-Zeta-Anunnaki hybrids. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Omicron",
+      "description": "Drakonian-Seraphim hybrids described as “Dragon-Moth” beings. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Odedicron",
+      "description": "A Drakonian-associated hybrid group described as beetle-like insectoids in Angelic Realities. AngelicRealities_scan.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Necromiton / associated “Andromie” hybrids",
+      "description": "Andromeda-associated beetle-reptile forms and related hybrids. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Centaur-associated races",
+      "description": "Groups associated with Alpha and Omega Centauri in the Alpha-Omega material. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Marduke-Anunnaki",
+      "description": "A Nibiruian Anunnaki-Omicron Drakonian hybrid lineage. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Lulitan and Satain families",
+      "description": "Named family branches within the Anunnaki hybrid narrative. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Samjase-Luciferian Anunnaki",
+      "description": "A named Pleiadian-associated hybrid lineage. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Marduke-Necromiton-Luciferian Anunnaki",
+      "description": "Another named composite hybrid lineage. Voyagers_The_Secrets_of_Amenti_Volume_II.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Budhara / Shan-Tar-EL",
+      "description": "A group associated with the Le-Ador-A side of the Eckasha system. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Wesedak / Wesadak and Wesedrak / Wesadrak",
+      "description": "Two related Wesa groupings associated with an adjacent Eckasha system. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "ThE-tans / ThEtans",
+      "description": "A fallen Lyran grouping associated with Theta Orion and the Wesadrak family. Keylontic Science Dictionary.pdf",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "Phalzants",
+      "description": "Created animal hybrids associated with “chupacabras” in the narrative.",
+      "source": "Owner-supplied Founder family races reference; citations in the original file identify further reading.",
+      "scored": false
+    },
+    {
+      "name": "The 12 Taran Turaneusiam subraces",
+      "description": "Bra-ha-man, Dhr-ah-men, Atoni, Trin-i-ten, Azurtan, Celtos, Addami, Yut-arans, Luri, Cerrasz, Nezack-tai, and Melchizedakz. The supplied reference places these in the Taran human-origin narrative.",
+      "source": "Owner-supplied Founder family races reference, citing Voyagers II.",
+      "scored": false
+    }
+  ],
+  "glossary": {
+    "MCEO": "A body of spiritual teachings attributed to the Melchizedek Cloister Emerald Order.",
+    "Keylontic science": "The teachings’ spiritual framework of consciousness, energetic patterns, and cosmic origins; not an established scientific discipline.",
+    "Founder order": "A broad consciousness family within the teachings; related expressions can overlap.",
+    "Yanas": "Consciousness collectives described beyond physical star-system life.",
+    "Time Matrix": "The teachings’ map of realms and levels of manifestation.",
+    "Angelic Human": "A spiritual account of human potential and origin within these teachings.",
+    "Soul blueprint": "An invitation to explore values, gifts, and possible contributions, rather than a fixed diagnosis.",
+    "The 144,000": "A symbolic spiritual frame for service and leadership; this assessment cannot verify membership in a chosen group."
+  }
+}
