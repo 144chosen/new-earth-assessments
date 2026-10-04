@@ -1,0 +1,16 @@
+<!-- Host the included assessment service first; this is the Kajabi Custom Code embed. -->
+<iframe id="neu-heritage" src="https://quiz.newearthuniversity.org/heritage" title="Discover Your Celestial Heritage" style="display:block;width:100%;height:1250px;border:0;border-radius:12px;background:#070e20" loading="eager" allow="clipboard-write" referrerpolicy="strict-origin" ></iframe>
+<p style="text-align:center;font-size:13px"><a href="https://quiz.newearthuniversity.org/heritage" target="_blank" rel="noopener">Open assessment in a full window</a></p>
+<script>
+(function(){
+  var frame=document.getElementById('neu-heritage');
+  var origin='https://quiz.newearthuniversity.org';
+  window.addEventListener('message',function(event){
+    if(event.origin!==origin || event.source!==frame.contentWindow) return;
+    var data=event.data;
+    if(data && data.type==='neu-assessment-height' && Number.isFinite(data.height)){
+      frame.style.height=Math.min(60000,Math.max(850,Math.ceil(data.height)+20))+'px';
+    }
+  });
+})();
+</script>
